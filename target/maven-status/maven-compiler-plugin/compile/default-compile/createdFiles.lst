@@ -1,0 +1,5 @@
+model\BMIDewasa.class
+main\AppLauncher.class
+model\BMI.class
+controller\BMIController.class
+main\MainApp.class
